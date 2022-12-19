@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**yousunzoo/yousunzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=fe9396&height=300&section=header&text=SeonjuYoo&fontSize=90)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Seonju's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousunzoo&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
+<br />
+<br />
+🍀My pages🍀<br />
+<br />
+<a href="https://charmming5.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/yousunzoo" target="_blank"><img src="https://img.shields.io/badge/Instagram-fb3958?style=flat-square&logo=instagram&logoColor=ffffff"/></a></center>
+</div>
