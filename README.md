@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fe9396&height=300&section=header&text=yousunzoo&fontSize=80)
 
-![Seonju's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousunzoo&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
