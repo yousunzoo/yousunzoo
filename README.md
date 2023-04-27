@@ -10,13 +10,23 @@
   <b>💻Studying💻</b><br /><br />
  <br />
   ✨Tech Stack✨<br /><br />
-  Techs that I've used at least once<br /><br />
+  Techs<br /><br />
 <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff"/>
+  <br /><br /><br /><br />
+  Libraries<br /><br />
+  
+<img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat-square&logo=reactrouter&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/reacthookform-EC5990?style=flat-square&logo=reacthookform&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=ffffff"/>
+
 <br />
 <br />
 <br />
