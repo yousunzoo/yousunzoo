@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=fe9396&height=300&section=header&text=yousunzoo&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1572A1&height=300&section=header&text=yousunzoo&fontSize=80)
 <br />
 <h3>💻Web Front-end Engineer💻</h3>
 <br />
