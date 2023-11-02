@@ -49,10 +49,5 @@
 <br />
 <br />
 <br />
-<br />
-<b>🍀My pages🍀</b><br />
-<br />
-<a href="https://charmming5.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
-<a href="https://www.instagram.com/yousunzoo" target="_blank"><img src="https://img.shields.io/badge/Instagram-fb3958?style=flat-square&logo=instagram&logoColor=ffffff"/></a></center>
 
 </div>
